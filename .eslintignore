@@ -1,0 +1,4 @@
+src/lib/stubs/*
+src/database/*
+next.config.js
+cypress
